@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="0.2.0"><source path="/home/williamhuang/android_core/src/android_extras/ros_master_browser/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/assets"/></dataSet><dataSet config="main"><source path="/home/williamhuang/android_core/src/android_extras/ros_master_browser/src/main/assets"/></dataSet><dataSet config="release"><source path="/home/williamhuang/android_core/src/android_extras/ros_master_browser/src/release/assets"/></dataSet></merger>

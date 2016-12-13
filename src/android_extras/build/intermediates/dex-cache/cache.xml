@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_core/apache_xmlrpc_server/0.2.1/apache_xmlrpc_server-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9a15984a66041c321253077436691c9bfe9fca2c">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/apache_xmlrpc_server-0.2.1-224f1fd639be24fa65e93d4dc2f2c91e7668f29b.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_messages/geometry_msgs/1.11.9/geometry_msgs-1.11.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ea97b1607aeed0dcc58763b2fe5d115f5814b06">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/geometry_msgs-1.11.9-4e60974327cd4414f115a688e35c52717f9186cf.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_messages/tf2_msgs/0.5.13/tf2_msgs-0.5.13.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fa816e82a5b259880e57a01328f123f1a541034c">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/tf2_msgs-0.5.13-1e12b347d710f081450d055c5f10f2c44dd3c2c8.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_messages/visualization_msgs/1.11.9/visualization_msgs-1.11.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="49e79fa1c043eaaaedd51b91e2a98b5fd8cf8e3c">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/visualization_msgs-1.11.9-a9d1081bbcb3101753c5589e7585d21095a23a4d.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/internal_impl-21.0.3-e974109142e55a25183f70dd9536c68557c2a07f.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/com/github/rosjava/zeroconf_jmdns_suite/jmdns/0.2.1/jmdns-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef2cda39f0e2c05314bd75c579ddea6b9febd1d9">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/ros_master_browser/build/intermediates/pre-dexed/release/jmdns-0.2.1-e6471f5bd999c753de5bee2c77ddcac495194603.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_core/rosjava_geometry/0.2.1/rosjava_geometry-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fee80027bb24115185fa97ae20cc38a68f74e979">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/rosjava_geometry-0.2.1-02c2bc5c5ea2d71e9592b314ec5b8a39386fee24.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_bootstrap/gradle_plugins/0.2.1/gradle_plugins-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b285ad95ba88aa613a244fdb6358b7f5428f691c">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/gradle_plugins-0.2.1-329a8c3e0a5ee144968a9c6785a05be5091a0001.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_core/apache_xmlrpc_common/0.2.1/apache_xmlrpc_common-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="642f6780ac9a8e02d0752d767110eadc32588b4f">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/apache_xmlrpc_common-0.2.1-8d2a6d3cb2761d3e4d8bcc564995e9c28b9728c5.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/exploded-aar/org.ros.android_core/android_15/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="08ae409ca6bf3e82a91e025623e26745688d8b2d">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/classes-4c166b54d37d2a93063d011b08a6ec3ae1574343.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.6/4572d589699f09d866a226a14b7f4323c6d8f040/commons-pool-1.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4572d589699f09d866a226a14b7f4323c6d8f040">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/commons-pool-1.6-664de44edf597ce58f218916d5c6a237e30c4300.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.io/1.4.0/51097cd000ec88214ff181c9f059947de1cf4a35/com.springsource.org.apache.commons.io-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="51097cd000ec88214ff181c9f059947de1cf4a35">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/com.springsource.org.apache.commons.io-1.4.0-a24dfd60a92cd0655ea6f11bc63a475cd5f10b8e.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/jsr305-1.3.9-6f13519c6e0ad079e5996a5180c3e48d4ed5e69b.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/.gradle/caches/modules-2/files-2.1/org.apache.ws.commons/ws-commons-util/1.0.1/126e80ff798fece634bc94e61f8be8a8da00be60/ws-commons-util-1.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="126e80ff798fece634bc94e61f8be8a8da00be60">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/ws-commons-util-1.0.1-aca3070c7ce5d49179f98c5e19c2a155ccf9d1dc.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_messages/nav_msgs/1.11.9/nav_msgs-1.11.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66d9e9d94becff8c6853a1782ae9fb07f4b7cd25">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/nav_msgs-1.11.9-b260d7b961ca34a754c028eac0d954f65daabe2c.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/classes-08f9c5b92f2e6476463abc560356d33d4587fb46.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.net/2.0.0/3e78766072ff5a5cf3f5431d973c430c94ec612/com.springsource.org.apache.commons.net-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="03e78766072ff5a5cf3f5431d973c430c94ec612">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/com.springsource.org.apache.commons.net-2.0.0-f073fbf2ff5a087d2bedc017c25ee1b8dccd6bab.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.lang/2.4.0/686e3713650c8e3a5d98723b4d3e239586bf9822/com.springsource.org.apache.commons.lang-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686e3713650c8e3a5d98723b4d3e239586bf9822">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/com.springsource.org.apache.commons.lang-2.4.0-962f7fd9c670b3d773f61d611a2e16d09f0c41b6.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/exploded-aar/org.ros.android_core/android_acm_serial/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e951429fee014d279248931e857a56846772808">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/classes-90b86daed6bca535fa5636c5e64dc61de9ad1d0f.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_messages/diagnostic_msgs/1.11.9/diagnostic_msgs-1.11.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1d7fa1ba5a632d80564d6810e5c45992965ffae">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/diagnostic_msgs-1.11.9-e2ec0156d2936a26e1fb0681ab199dc563f1fe00.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_bootstrap/message_generation/0.2.1/message_generation-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5dcf4e0901fdbfc0180e0ab16ef91d4c3011a8b4">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/message_generation-0.2.1-13b2b07f772ba88e524a34415a05cc46c7d5eed9.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.1/5708df81cf6dbff545695f0be6380b7bbc85accc/dnsjava-2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5708df81cf6dbff545695f0be6380b7bbc85accc">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/dnsjava-2.1.1-0580499f2406dfc359eb76516f92b17678f93a7a.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/com/github/rosjava/rosjava_extras/hokuyo/0.2.1/hokuyo-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="35c583ab8a80d7ac11fe38265c7aecd4c10190b7">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/hokuyo-0.2.1-79aa060c60114700fb0976512ce67431e0efdef4.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_messages/rosgraph_msgs/1.11.2/rosgraph_msgs-1.11.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="48db3289c12e7837f89b656f384c239e8d627771">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/rosgraph_msgs-1.11.2-5ff236e18488d948befff3e016da5501d59a7c03.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/12.0/5bc66dd95b79db1e437eb08adba124a3e4088dc0/guava-12.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/guava-12.0-642af179c51fa5d9b24dd4c9a9a1e11497a37e45.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/android_core/src/android_extras/ros_master_browser/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="776cff8a7a1fe41a9f4bc8dd3777e80cbbe2e4df">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/ros_master_browser/build/intermediates/pre-dexed/release/classes-5b5931bebf3238a304680473592bd899cb3252c6.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_messages/std_msgs/0.5.10/std_msgs-0.5.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d78381eb0273de235b78c52c80fb2ec3c21e7ee1">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/std_msgs-0.5.10-05be0121bebdf470cb065c0e3b0b93fa8608b923.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_messages/sensor_msgs/1.11.9/sensor_msgs-1.11.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="16cc6067ba470c8f6af8329b4cbe2dd40c17c34d">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/sensor_msgs-1.11.9-5d1f09ccec8265f11f2d2341fab800b563af36b9.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_core/apache_xmlrpc_client/0.2.1/apache_xmlrpc_client-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1315a910dcac743f7e6e7811e7171f69168499e1">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/apache_xmlrpc_client-0.2.1-fc874d02e3dc21ff44d9ac262882bec7e265b58e.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/support-annotations-21.0.3-67247539a183e1924e2c892de482a9929c93d21a.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.codec/1.3.0/f8690570eb0913d750262bb4223eed30b0d619ed/com.springsource.org.apache.commons.codec-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8690570eb0913d750262bb4223eed30b0d619ed">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/com.springsource.org.apache.commons.codec-1.3.0-9adcacbc38e7b0f606ea60476dd538a987bbb032.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_core/rosjava/0.2.1/rosjava-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c3dc5bd638e0da0b4a9ebe869c1c4b0cce72823e">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/rosjava-0.2.1-af3bbc147ac0d5447b51217ce031c652227d74fd.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_messages/rosjava_test_msgs/0.2.1/rosjava_test_msgs-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06af172ea809b4071fdba65ab14e6029569a3495">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/rosjava_test_msgs-0.2.1-3354957b455ec29b14b84c9033102a422d485818.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/7657caf2c78e1d79c74d36f2ae128a115f7cc180/com.springsource.org.apache.commons.logging-1.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7657caf2c78e1d79c74d36f2ae128a115f7cc180">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/com.springsource.org.apache.commons.logging-1.1.1-a8f4aeadf13356157c3966d7c4f6becffc001c00.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.httpclient/3.1.0/c493a925a091ac3d8f449d9265fe12482dabb2a7/com.springsource.org.apache.commons.httpclient-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c493a925a091ac3d8f449d9265fe12482dabb2a7">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/com.springsource.org.apache.commons.httpclient-3.1.0-7ee5076ae390946f3a7c0b9f9a4aecc1150829d7.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/.gradle/caches/modules-2/files-2.1/io.netty/netty/3.5.2.Final/e6fb74a0699abe108969b2ec1f269391169a0426/netty-3.5.2.Final.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e6fb74a0699abe108969b2ec1f269391169a0426">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/netty-3.5.2.Final-a70c8e72cea4d6d8240537799e5938738101ae0b.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/catkin_ws/devel/share/maven/org/ros/rosjava_messages/actionlib_msgs/1.11.9/actionlib_msgs-1.11.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9a15099c2aa4a2c321be05d5b6da65e1618c8bd">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/actionlib_msgs-1.11.9-600ce65408b8daa18212104f671020c75f356eec.jar" />
+    </item>
+    <item
+        jar="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="776cff8a7a1fe41a9f4bc8dd3777e80cbbe2e4df">
+        <dex dex="/home/williamhuang/android_core/src/android_extras/android_tutorial_hokuyo/build/intermediates/pre-dexed/release/classes-967be4ba20376fcbaaddf6993c08a924ba6b562d.jar" />
+    </item>
+
+</items>

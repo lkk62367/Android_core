@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:text="Robot Control Tool"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:textStyle="normal|bold" />
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+    <Button
+        android:text="SLAM mode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="SLAMmode"
+        android:id="@+id/SLAMmode"/>
+
+    <Button
+        android:text="Nav mode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Navmode"
+        android:id="@+id/Navmode" />
+
+    <Button
+        android:text="Reboot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Reboot"
+        android:id="@+id/Reboot" />
+
+        <Button
+        android:text="Cancel goal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Cancel"
+        android:id="@+id/Cancel" />
+
+        <org.ros.android.view.RosTextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dip" />
+    </LinearLayout>
+
+</LinearLayout>

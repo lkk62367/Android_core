@@ -16,7 +16,7 @@ public class Talker extends AbstractNodeMain {
     private String topic_name;
 
     public Talker() {
-        this.topic_name = "control";
+        this.topic_name = "robot_utilities";
     }
 
     public Talker(String topic) {

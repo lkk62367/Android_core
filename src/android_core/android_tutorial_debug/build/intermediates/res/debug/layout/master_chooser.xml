@@ -121,4 +121,4 @@
         android:text="@string/cancel"/>
 
 </LinearLayout>
-<!-- From: file:/home/william/android_core/src/android_core/android_10/res/layout/master_chooser.xml --><!-- From: file:/home/william/android_core/src/android_core/android_tutorial_pubsub/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/res/layout/master_chooser.xml -->
+<!-- From: file:/home/william/android_core/src/android_core/android_10/res/layout/master_chooser.xml --><!-- From: file:/home/william/android_core/src/android_core/android_tutorial_debug/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/res/layout/master_chooser.xml -->

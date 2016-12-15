@@ -2,9 +2,10 @@ int drawable error 0x7f020000
 int drawable ok 0x7f020001
 int drawable stale 0x7f020002
 int drawable warn 0x7f020003
-int id Cancel 0x7f070004
+int id Cancel 0x7f070005
 int id Navmode 0x7f070002
 int id Reboot 0x7f070003
+int id SHUTDOWN 0x7f070004
 int id SLAMmode 0x7f070001
 int id advancedOptions 0x7f07000b
 int id advanced_checkBox 0x7f07000a
@@ -16,7 +17,6 @@ int id master_chooser_ok 0x7f070009
 int id master_chooser_qr_code_button 0x7f070008
 int id master_chooser_uri 0x7f070007
 int id networkInterfaces 0x7f07000d
-int id text 0x7f070005
 int id textView 0x7f070006
 int id textView2 0x7f070000
 int layout main 0x7f040000

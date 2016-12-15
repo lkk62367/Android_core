@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/android_core.iml" filepath="$PROJECT_DIR$/android_core.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_tutorial_camera/android_tutorial_camera.iml" filepath="$PROJECT_DIR$/android_tutorial_camera/android_tutorial_camera.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_tutorial_control/android_tutorial_control.iml" filepath="$PROJECT_DIR$/android_tutorial_control/android_tutorial_control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_tutorial_debug/android_tutorial_debug.iml" filepath="$PROJECT_DIR$/android_tutorial_debug/android_tutorial_debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_tutorial_image_transport/android_tutorial_image_transport.iml" filepath="$PROJECT_DIR$/android_tutorial_image_transport/android_tutorial_image_transport.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_tutorial_map_viewer/android_tutorial_map_viewer.iml" filepath="$PROJECT_DIR$/android_tutorial_map_viewer/android_tutorial_map_viewer.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_tutorial_pubsub/android_tutorial_pubsub.iml" filepath="$PROJECT_DIR$/android_tutorial_pubsub/android_tutorial_pubsub.iml" />

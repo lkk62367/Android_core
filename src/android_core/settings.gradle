@@ -27,6 +27,7 @@ include "docs"
 include "android_camera_driver"
 include "android_tutorial_control"
 include "android_tutorial_service"
+include "android_tutorial_debug"
 
 
 // TODO(damonkohler): The following projects are not included in the

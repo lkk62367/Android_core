@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/android_camera_driver" />
             <option value="$PROJECT_DIR$/android_tutorial_camera" />
             <option value="$PROJECT_DIR$/android_tutorial_control" />
+            <option value="$PROJECT_DIR$/android_tutorial_debug" />
             <option value="$PROJECT_DIR$/android_tutorial_image_transport" />
             <option value="$PROJECT_DIR$/android_tutorial_map_viewer" />
             <option value="$PROJECT_DIR$/android_tutorial_pubsub" />

@@ -17,9 +17,10 @@ public final class R {
         public static final int warn=0x7f020003;
     }
     public static final class id {
-        public static final int Cancel=0x7f070004;
+        public static final int Cancel=0x7f070005;
         public static final int Navmode=0x7f070002;
         public static final int Reboot=0x7f070003;
+        public static final int SHUTDOWN=0x7f070004;
         public static final int SLAMmode=0x7f070001;
         public static final int advancedOptions=0x7f07000b;
         public static final int advanced_checkBox=0x7f07000a;
@@ -31,7 +32,6 @@ public final class R {
         public static final int master_chooser_qr_code_button=0x7f070008;
         public static final int master_chooser_uri=0x7f070007;
         public static final int networkInterfaces=0x7f07000d;
-        public static final int text=0x7f070005;
         public static final int textView=0x7f070006;
         public static final int textView2=0x7f070000;
     }

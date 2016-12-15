@@ -40,17 +40,18 @@
         android:id="@+id/Reboot" />
 
         <Button
+            android:text="Shutdown"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="shutdown"
+            android:id="@+id/SHUTDOWN"/>
+
+        <Button
         android:text="Cancel goal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="Cancel"
-        android:id="@+id/Cancel" />
-
-        <org.ros.android.view.RosTextView
-            android:id="@+id/text"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="30dip" />
+        android:id="@+id/Cancel"/>
     </LinearLayout>
 
 </LinearLayout><!-- From: file:/home/william/android_core/src/android_core/android_tutorial_control/res/layout/main.xml -->

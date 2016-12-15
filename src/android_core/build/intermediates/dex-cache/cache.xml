@@ -2,25 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava/0.2.1/68face01dcd34ac0dd82fc3745afd764d330b427/rosjava-0.2.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="68face01dcd34ac0dd82fc3745afd764d330b427">
-        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/rosjava-0.2.1-6f1f3578a5b2e0be5d496ab736dbb169d0db7570.jar" />
-    </item>
-    <item
-        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/sensor_msgs/1.11.9/410c5603b38b55a829f34c7b366ebed106cf0c7d/sensor_msgs-1.11.9.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="410c5603b38b55a829f34c7b366ebed106cf0c7d">
-        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/sensor_msgs-1.11.9-f54a96016ec04671c812e1effd2e01183cecf14c.jar" />
-    </item>
-    <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/jsr305-1.3.9-3ab7cf20f07fd62b9d029026796209ba903ff321.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava_benchmarks/0.2.1/2d9d40a3f7bc740dd0567c91c94cbfda12d75d3d/rosjava_benchmarks-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2d9d40a3f7bc740dd0567c91c94cbfda12d75d3d">
+        <dex dex="/home/william/android_core/src/android_core/android_benchmarks/build/intermediates/pre-dexed/debug/rosjava_benchmarks-0.2.1-169ecc7e804ae54dc5cd733fd8135e4990c8b998.jar" />
     </item>
     <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/gradle_plugins/0.2.1/33c05915db7ef72ac3978d33b16abd1b4b06fec9/gradle_plugins-0.2.1.jar"
@@ -30,11 +23,11 @@
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/gradle_plugins-0.2.1-4f3cb02611d08e65d3d9b67efe002ed3c89a99a3.jar" />
     </item>
     <item
-        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/geometry_msgs/1.11.9/4bfd8ddde1b0b7ffab44b094a7c217a8416b0d5c/geometry_msgs-1.11.9.jar"
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/libs/internal_impl-24.2.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4bfd8ddde1b0b7ffab44b094a7c217a8416b0d5c">
-        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/geometry_msgs-1.11.9-5e27b60dca7fce938e7e710dd08d7c00d963b1fd.jar" />
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/internal_impl-24.2.0-7fa6bc50a8d8dc2f1c14f651333e91970c9b0b5e.jar" />
     </item>
     <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.httpclient/3.1.0/c493a925a091ac3d8f449d9265fe12482dabb2a7/com.springsource.org.apache.commons.httpclient-3.1.0.jar"
@@ -44,6 +37,13 @@
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.httpclient-3.1.0-d93fcffef59c934a4a374bd8d97289ac6ab30395.jar" />
     </item>
     <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/internal_impl-24.2.0-f054f0e2fcf375c49daa878fd1fb81b3c76e667c.jar" />
+    </item>
+    <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava_tutorial_pubsub/0.2.1/bdab50add81a0afe983aa60b6e15d082c33b98f4/rosjava_tutorial_pubsub-0.2.1.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -51,11 +51,11 @@
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/rosjava_tutorial_pubsub-0.2.1-a42ab909d274a3eb284e9d0b72ef736e4b35a018.jar" />
     </item>
     <item
-        jar="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
+        jar="/home/william/android_core/src/android_core/android_camera_driver/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="68ade6cd3909261979489159ec6b45b6198c87db">
-        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/classes-cfa4c0c617af7673c683e034d3a9f16e20192795.jar" />
+        sha1="b1ecd1ee18c44a9bf3783b1daa68dc7c758e7730">
+        <dex dex="/home/william/android_core/src/android_core/android_camera_driver/build/intermediates/pre-dexed/debug/classes-45b2dffc65be8139890889947b42751ea3ce3542.jar" />
     </item>
     <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.1/5708df81cf6dbff545695f0be6380b7bbc85accc/dnsjava-2.1.1.jar"
@@ -65,25 +65,53 @@
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/dnsjava-2.1.1-dc71f52db66cac0b10f4490f8ce55a657338f55d.jar" />
     </item>
     <item
-        jar="/home/william/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/12.0/5bc66dd95b79db1e437eb08adba124a3e4088dc0/guava-12.0.jar"
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
-        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/guava-12.0-3d292c9e8691913e3fc169bffd26594ddd387070.jar" />
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-a54d8f4ef9c5ac9efe986c9b4bd616874699c5f9.jar" />
     </item>
     <item
-        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.io/1.4.0/51097cd000ec88214ff181c9f059947de1cf4a35/com.springsource.org.apache.commons.io-1.4.0.jar"
+        jar="/home/william/android_core/src/android_core/android_tutorial_service/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="51097cd000ec88214ff181c9f059947de1cf4a35">
-        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.io-1.4.0-94e97d9d1f8b45e7b829cc76b8d6df7a9f28d183.jar" />
+        sha1="b1ecd1ee18c44a9bf3783b1daa68dc7c758e7730">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_service/build/intermediates/pre-dexed/debug/classes-8aaf845015cdc2c9e42bab57e248a900e90c5911.jar" />
     </item>
     <item
-        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/actionlib_msgs/1.11.9/5c94e70a25c8f4f0f3d5ea7cc062cc9f0bf51dad/actionlib_msgs-1.11.9.jar"
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="5c94e70a25c8f4f0f3d5ea7cc062cc9f0bf51dad">
-        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/actionlib_msgs-1.11.9-5eb4155f373223f3f0d9c89117c767673fd925cf.jar" />
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-d0a488fa2990d4203fb54332c299f724505324ed.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-94105a02f5db7d7aac663d4676691a68ae3ae480.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_benchmarks/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1ecd1ee18c44a9bf3783b1daa68dc7c758e7730">
+        <dex dex="/home/william/android_core/src/android_core/android_benchmarks/build/intermediates/pre-dexed/debug/classes-154b115e607fb3e2d4e740983757a7bd4a27b5ec.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/design/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-e043ceeff31346460a68ae878b71fdf46c311418.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_teleop/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_teleop/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b1b9af4c58520373b35e6bcd5e02152a200a9437.jar" />
     </item>
     <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/7657caf2c78e1d79c74d36f2ae128a115f7cc180/com.springsource.org.apache.commons.logging-1.1.1.jar"
@@ -93,6 +121,48 @@
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.logging-1.1.1-09365e64fde2705c9b2cdd870c7719f39e586d4f.jar" />
     </item>
     <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-10b5a01a9db06f7e82f6f5102003527a83de293b.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-4314e95606534d32b828d7739445a502283a8712.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-fa09367de211ea531de1368492261c84d123a2af.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-d4aee149e51e568c42a86517bc17bbf55e3c55b8.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/internal_impl-24.2.0-49b186fcb56529703f61e4dbd8dbdf12957c2b92.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/visualization_msgs/1.11.9/e3f84660cf6e523a65c353725b251faad9a26f4/visualization_msgs-1.11.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e3f84660cf6e523a65c353725b251faad9a26f4">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_map_viewer/build/intermediates/pre-dexed/debug/visualization_msgs-1.11.9-9c95dc342a12314546042254727ad945bb9d0fb1.jar" />
+    </item>
+    <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.lang/2.4.0/686e3713650c8e3a5d98723b4d3e239586bf9822/com.springsource.org.apache.commons.lang-2.4.0.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -100,11 +170,11 @@
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.lang-2.4.0-00ddaa8c807943978e022778e8a4e9bd5ff31bc6.jar" />
     </item>
     <item
-        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/std_msgs/0.5.10/cea6a3f85bb43f37bd53b0e92da7a7d25f577931/std_msgs-0.5.10.jar"
+        jar="/home/william/android_core/src/android_core/android_tutorial_map_viewer/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="cea6a3f85bb43f37bd53b0e92da7a7d25f577931">
-        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/std_msgs-0.5.10-595cf5a06c35aa1e9f9022c2f169a584fcdd7adb.jar" />
+        sha1="b1ecd1ee18c44a9bf3783b1daa68dc7c758e7730">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_map_viewer/build/intermediates/pre-dexed/debug/classes-e3b9f0f010e3f84d36c40cb68b14140beba98019.jar" />
     </item>
     <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosjava_test_msgs/0.2.1/e14026224ba364d49f90e204fd30ee91077602b8/rosjava_test_msgs-0.2.1.jar"
@@ -114,11 +184,11 @@
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/rosjava_test_msgs-0.2.1-48b5672ca9caab69740c452b3f0247d7144685df.jar" />
     </item>
     <item
-        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_common/0.2.1/a956178368232d0a9fccf501a8c91aacf2ac0256/apache_xmlrpc_common-0.2.1.jar"
+        jar="/home/william/android_core/src/android_core/android_tutorial_map_viewer/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="a956178368232d0a9fccf501a8c91aacf2ac0256">
-        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/apache_xmlrpc_common-0.2.1-1170f727f14945a4dfca6042098531f0b8633b8a.jar" />
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_map_viewer/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-23e9bf7f286f1bf29bd0fb8a09c638dde11ea2d8.jar" />
     </item>
     <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/org.apache.ws.commons/ws-commons-util/1.0.1/126e80ff798fece634bc94e61f8be8a8da00be60/ws-commons-util-1.0.1.jar"
@@ -126,6 +196,20 @@
         revision="21.1.2"
         sha1="126e80ff798fece634bc94e61f8be8a8da00be60">
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/ws-commons-util-1.0.1-477066b8b9f4b6cefc16fdc523e27a4ff472fb9a.jar" />
+    </item>
+    <item
+        jar="/home/william/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/support-annotations-24.2.0-27162b912f4a129cfc8078675621fc48d0bf3eaf.jar" />
+    </item>
+    <item
+        jar="/home/william/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_map_viewer/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-e3c4241e16d55e4092fdbf66cb029c48ce9f4a4c.jar" />
     </item>
     <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/tf2_msgs/0.5.13/d963528cd709a0ae0e7b2a202764795fb8290f14/tf2_msgs-0.5.13.jar"
@@ -142,6 +226,13 @@
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.codec-1.3.0-9db44d3427fde435e49b79f9fdf51ff7e20b1b7a.jar" />
     </item>
     <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-4204a4bc9d1f7a612bee2a0d8bb42daef1f7e631.jar" />
+    </item>
+    <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/diagnostic_msgs/1.11.9/cd26b0f3326102721034f03734ba624798bd771d/diagnostic_msgs-1.11.9.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -156,20 +247,6 @@
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/netty-3.5.2.Final-4cd87d611dfc0c79da2a17eb477b465b7056cac7.jar" />
     </item>
     <item
-        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_server/0.2.1/f96701e8f578b6a4fc538e8a8a6b8f9256fd6718/apache_xmlrpc_server-0.2.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f96701e8f578b6a4fc538e8a8a6b8f9256fd6718">
-        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/apache_xmlrpc_server-0.2.1-7d7685d0ec8c390ed8b38417c52cbebb645bc6b6.jar" />
-    </item>
-    <item
-        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.net/2.0.0/3e78766072ff5a5cf3f5431d973c430c94ec612/com.springsource.org.apache.commons.net-2.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="03e78766072ff5a5cf3f5431d973c430c94ec612">
-        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.net-2.0.0-c59a3af1eca26707444c4a7650c49059f1777446.jar" />
-    </item>
-    <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/nav_msgs/1.11.9/92d5ef2ea3b47d61cbda430e576b54b493cbd229/nav_msgs-1.11.9.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -177,11 +254,11 @@
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/nav_msgs-1.11.9-a3b6ff8646020d63b277e259646d53532592c628.jar" />
     </item>
     <item
-        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosgraph_msgs/1.11.2/cb4c7921abc6c99d42be42468c231b61560480ec/rosgraph_msgs-1.11.2.jar"
+        jar="/home/william/android_core/src/android_core/android_tutorial_debug/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="cb4c7921abc6c99d42be42468c231b61560480ec">
-        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/rosgraph_msgs-1.11.2-0b481368c7282990cb79adb470632952c8b2abbb.jar" />
+        sha1="b1ecd1ee18c44a9bf3783b1daa68dc7c758e7730">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_debug/build/intermediates/pre-dexed/debug/classes-c0aecb8296eea409a844c529ce02aa9bb2b6baed.jar" />
     </item>
     <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/message_generation/0.2.1/dc3afb66cd5aa168a71bcb63ba89560b197b9300/message_generation-0.2.1.jar"
@@ -191,6 +268,209 @@
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/message_generation-0.2.1-ddf30b2d543be3e5ccb5b08a0c3b5796438e91ac.jar" />
     </item>
     <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.6/4572d589699f09d866a226a14b7f4323c6d8f040/commons-pool-1.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4572d589699f09d866a226a14b7f4323c6d8f040">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/commons-pool-1.6-58ee5a53375d69be56ee548a911a5591f389969e.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava/0.2.1/68face01dcd34ac0dd82fc3745afd764d330b427/rosjava-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68face01dcd34ac0dd82fc3745afd764d330b427">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/rosjava-0.2.1-6f1f3578a5b2e0be5d496ab736dbb169d0db7570.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/sensor_msgs/1.11.9/410c5603b38b55a829f34c7b366ebed106cf0c7d/sensor_msgs-1.11.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="410c5603b38b55a829f34c7b366ebed106cf0c7d">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/sensor_msgs-1.11.9-f54a96016ec04671c812e1effd2e01183cecf14c.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-a65b4d5d896a1463205201d6f238e9b0e936f903.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-74d4752f6a6d59626e4993ffddbcae516f30facd.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/geometry_msgs/1.11.9/4bfd8ddde1b0b7ffab44b094a7c217a8416b0d5c/geometry_msgs-1.11.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4bfd8ddde1b0b7ffab44b094a7c217a8416b0d5c">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/geometry_msgs-1.11.9-5e27b60dca7fce938e7e710dd08d7c00d963b1fd.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1ecd1ee18c44a9bf3783b1daa68dc7c758e7730">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/classes-cfa4c0c617af7673c683e034d3a9f16e20192795.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-1d2c974c9ee35b9829ca6cb18f9cdf95ed10c0ee.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/12.0/5bc66dd95b79db1e437eb08adba124a3e4088dc0/guava-12.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/guava-12.0-3d292c9e8691913e3fc169bffd26594ddd387070.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/internal_impl-24.2.0-9654b539eb1910f67b8d81ef50bc4d34a3be2052.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava_geometry/0.2.1/a31311017f578093eb09216269d0e25b0bd3d81d/rosjava_geometry-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a31311017f578093eb09216269d0e25b0bd3d81d">
+        <dex dex="/home/william/android_core/src/android_core/android_benchmarks/build/intermediates/pre-dexed/debug/rosjava_geometry-0.2.1-42bc16e4f191fda9dcf246f7abe6c66bc406b8ac.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.io/1.4.0/51097cd000ec88214ff181c9f059947de1cf4a35/com.springsource.org.apache.commons.io-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="51097cd000ec88214ff181c9f059947de1cf4a35">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.io-1.4.0-94e97d9d1f8b45e7b829cc76b8d6df7a9f28d183.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_map_viewer/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_map_viewer/build/intermediates/pre-dexed/debug/classes-29f640bf09b1dfdd06a9fe0d73391a74bc365011.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_pubsub/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1ecd1ee18c44a9bf3783b1daa68dc7c758e7730">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_pubsub/build/intermediates/pre-dexed/debug/classes-3ca7a67f000e351b313ea3cd3f03393ddb665748.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/actionlib_msgs/1.11.9/5c94e70a25c8f4f0f3d5ea7cc062cc9f0bf51dad/actionlib_msgs-1.11.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5c94e70a25c8f4f0f3d5ea7cc062cc9f0bf51dad">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/actionlib_msgs-1.11.9-5eb4155f373223f3f0d9c89117c767673fd925cf.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-1cb12e59eaf9937385c0d524317b1489fdeddd1b.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1ecd1ee18c44a9bf3783b1daa68dc7c758e7730">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-e331fbd83b5be356efa3c3b6bc423aaf876fe0f6.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_image_transport/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1ecd1ee18c44a9bf3783b1daa68dc7c758e7730">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_image_transport/build/intermediates/pre-dexed/debug/classes-a76883b4b07c5e7aa40b6a7aca1eee43dd6fbfc3.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/std_msgs/0.5.10/cea6a3f85bb43f37bd53b0e92da7a7d25f577931/std_msgs-0.5.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cea6a3f85bb43f37bd53b0e92da7a7d25f577931">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/std_msgs-0.5.10-595cf5a06c35aa1e9f9022c2f169a584fcdd7adb.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1ecd1ee18c44a9bf3783b1daa68dc7c758e7730">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_teleop/build/intermediates/pre-dexed/debug/classes-ce4ed020cb2c2400217c417df0c3c3a2ec86e40b.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_map_viewer/build/intermediates/exploded-aar/org.ros.android_core/android_15/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b48a3bff9fd969f1ecc6d5576936670faeaeb96">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_map_viewer/build/intermediates/pre-dexed/debug/classes-8ceca37f1d24679ec07d3956778e6e72a9d6c6c4.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_common/0.2.1/a956178368232d0a9fccf501a8c91aacf2ac0256/apache_xmlrpc_common-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a956178368232d0a9fccf501a8c91aacf2ac0256">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/apache_xmlrpc_common-0.2.1-1170f727f14945a4dfca6042098531f0b8633b8a.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_server/0.2.1/f96701e8f578b6a4fc538e8a8a6b8f9256fd6718/apache_xmlrpc_server-0.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f96701e8f578b6a4fc538e8a8a6b8f9256fd6718">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/apache_xmlrpc_server-0.2.1-7d7685d0ec8c390ed8b38417c52cbebb645bc6b6.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_teleop/build/intermediates/exploded-aar/org.ros.android_core/android_15/0.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b48a3bff9fd969f1ecc6d5576936670faeaeb96">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_teleop/build/intermediates/pre-dexed/debug/classes-81959acd4543167b314f6db3778900e9ee6e69f1.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-a53e73a2e42262ad97da8c34bda7c32302da09aa.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_teleop/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_teleop/build/intermediates/pre-dexed/debug/classes-df676be432a6c45ed269be0970405f6313be6865.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.net/2.0.0/3e78766072ff5a5cf3f5431d973c430c94ec612/com.springsource.org.apache.commons.net-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="03e78766072ff5a5cf3f5431d973c430c94ec612">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.net-2.0.0-c59a3af1eca26707444c4a7650c49059f1777446.jar" />
+    </item>
+    <item
+        jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosgraph_msgs/1.11.2/cb4c7921abc6c99d42be42468c231b61560480ec/rosgraph_msgs-1.11.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb4c7921abc6c99d42be42468c231b61560480ec">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/rosgraph_msgs-1.11.2-0b481368c7282990cb79adb470632952c8b2abbb.jar" />
+    </item>
+    <item
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/internal_impl-24.2.0-e4411c8dcdeb4b28544c1e02f51875798bcda66d.jar" />
+    </item>
+    <item
         jar="/home/william/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_client/0.2.1/55f1cf075db9507a26102898e9f146221e4c1aaf/apache_xmlrpc_client-0.2.1.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -198,11 +478,11 @@
         <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/apache_xmlrpc_client-0.2.1-431f4ff6b812552de61961efef4768e31d5a3b11.jar" />
     </item>
     <item
-        jar="/home/william/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.6/4572d589699f09d866a226a14b7f4323c6d8f040/commons-pool-1.6.jar"
+        jar="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4572d589699f09d866a226a14b7f4323c6d8f040">
-        <dex dex="/home/william/android_core/src/android_core/android_tutorial_control/build/intermediates/pre-dexed/debug/commons-pool-1.6-58ee5a53375d69be56ee548a911a5591f389969e.jar" />
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/william/android_core/src/android_core/android_tutorial_camera/build/intermediates/pre-dexed/debug/classes-d79e2f77befc9b6678c990e7b122bb8d148649ff.jar" />
     </item>
 
 </items>

@@ -135,7 +135,7 @@ public class MainActivity extends RosActivity implements Button.OnClickListener{
 
     builder.setTitle(diamsg);
 
-    builder.setPositiveButton("OK", new DialogInterface.OnClickListener()  {
+    builder.setPositiveButton(diamsg, new DialogInterface.OnClickListener()  {
 
       @Override
 

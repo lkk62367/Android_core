@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Robot Tool Mode"
+            android:textSize="40sp"
+            android:textStyle="normal|bold" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <Button
+                android:id="@+id/TestON"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="TEST ON" />
+
+            <Button
+                android:id="@+id/TestOFF"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="TEST OFF" />
+
+        </LinearLayout>
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/imu"
+                    android:layout_width="wrap_content"
+
+                    android:layout_height="wrap_content"
+                    android:text="IMU : "
+                    android:textSize="26sp" />
+
+                <TextView
+                    android:id="@+id/subimu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="26sp" />
+            </TableRow>
+            <View
+                android:layout_height="1.5dp"
+                android:background="#AAAAAA"
+                android:paddingRight="10mm"
+                android:layout_width="match_parent"
+                />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/laserscan"
+                    android:layout_width="wrap_content"
+
+                    android:layout_height="wrap_content"
+                    android:text="LaserScan : "
+                    android:textSize="26sp" />
+
+                <TextView
+                    android:id="@+id/sublaser"
+                    android:layout_width="wrap_content"
+
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="26sp" />
+            </TableRow>
+            <View
+                android:layout_height="1.5dp"
+                android:background="#AAAAAA"
+                android:paddingRight="10mm"
+                android:layout_width="match_parent"
+                />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/textView13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="WheelFB : "
+                    android:textSize="26sp" />
+
+                <TextView
+                    android:id="@+id/subwheelfb"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:text=""
+                    android:textSize="26sp" />
+            </TableRow>
+
+
+            <View
+                android:layout_height="1.5dp"
+                android:background="#AAAAAA"
+                android:paddingRight="10mm"
+                android:layout_width="match_parent"
+                />
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/textstatus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Status : "
+                    android:textSize="26sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/status"
+                    android:text=""
+                    android:textSize="26sp"/>
+
+            </TableRow>
+
+        </TableLayout>
+    </LinearLayout>
+</LinearLayout>

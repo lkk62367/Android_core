@@ -52,28 +52,34 @@ category#android.intent.category.LAUNCHER
 ADDED from AndroidManifest.xml:18:17
 	android:name
 		ADDED from AndroidManifest.xml:18:27
+activity#org.ros.android.android_tutorial_control.ToolAvtivity
+ADDED from AndroidManifest.xml:22:9
+	android:label
+		ADDED from AndroidManifest.xml:24:13
+	android:name
+		ADDED from AndroidManifest.xml:23:13
 activity#org.ros.android.MasterChooser
-ADDED from AndroidManifest.xml:21:9
+ADDED from AndroidManifest.xml:27:9
 MERGED from org.ros.android_core:android_10:0.2.0:21:9
 	android:label
 		ADDED from org.ros.android_core:android_10:0.2.0:23:13
 	android:launchMode
 		ADDED from org.ros.android_core:android_10:0.2.0:24:13
 	android:name
-		ADDED from AndroidManifest.xml:21:19
+		ADDED from AndroidManifest.xml:27:19
 service#org.ros.android.NodeMainExecutorService
-ADDED from AndroidManifest.xml:23:9
+ADDED from AndroidManifest.xml:29:9
 MERGED from org.ros.android_core:android_10:0.2.0:26:9
 	tools:ignore
 		ADDED from org.ros.android_core:android_10:0.2.0:28:13
 	android:name
-		ADDED from AndroidManifest.xml:23:18
+		ADDED from AndroidManifest.xml:29:18
 intent-filter#org.ros.android.NodeMainExecutorService
-ADDED from AndroidManifest.xml:24:13
+ADDED from AndroidManifest.xml:30:13
 action#org.ros.android.NodeMainExecutorService
-ADDED from AndroidManifest.xml:25:17
+ADDED from AndroidManifest.xml:31:17
 	android:name
-		ADDED from AndroidManifest.xml:25:25
+		ADDED from AndroidManifest.xml:31:25
 uses-sdk
 INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
 MERGED from org.ros.android_core:android_10:0.2.0:8:5

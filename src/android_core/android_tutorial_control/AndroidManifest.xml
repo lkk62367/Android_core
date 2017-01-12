@@ -18,6 +18,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name="org.ros.android.android_tutorial_control.ToolAvtivity"
+            android:label="@string/app_name" >
+        </activity>
+
         <activity android:name="org.ros.android.MasterChooser" />
 
         <service android:name="org.ros.android.NodeMainExecutorService" >
